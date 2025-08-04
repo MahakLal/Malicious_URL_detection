@@ -1,4 +1,5 @@
-Malicious URL detection
+#Malicious URL detection
+
 Problem statement
 In this case study, we address the detection of malicious URLs as a multi-class classification problem. In this case study, we classify the raw URLs into different class types such as benign or safe URLs, phishing URLs, malware URLs, or defacement URLs.
 
